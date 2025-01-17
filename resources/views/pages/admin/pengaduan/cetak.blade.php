@@ -33,6 +33,8 @@
       <h6>Nama : {{ $pengaduan->name }}</h6>
       <h6>NIK : {{ $pengaduan->user_nik }}</h6>      
       <h6>No. Telepon : {{ $pengaduan->user->phone }}</h6>  
+      <img class=" h-32 w-35 " src="{{ public_path('storage/' . str_replace('public/', '', $pengaduan->image)) }}"
+                alt="" loading="lazy" />
     </div>
 
     <table class="table table-bordered">
