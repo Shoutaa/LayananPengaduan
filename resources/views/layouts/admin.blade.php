@@ -18,6 +18,8 @@
 
       @yield('content')
 
+      @include('includes.admin.footer')
+
     </div>
   </div>
   @include('sweetalert::alert')
