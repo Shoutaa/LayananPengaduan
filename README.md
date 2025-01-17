@@ -1,3 +1,9 @@
+# KELOMPOK 3 - LAYANAN PENGADUAN 
+> [!NOTE]
+Dhika Restu Fauzi `2206046`
+<br>Muhammad Ramadhan	 `2206065`
+> <br>Muhammad Arya Fajar Sastradipraja `2206066` 
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
