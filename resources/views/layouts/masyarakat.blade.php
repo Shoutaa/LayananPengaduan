@@ -18,7 +18,7 @@
 
       @yield('content')
 
-      <!-- @include('includes.masyarakat.footer') -->
+      @include('includes.masyarakat.footer')
     </div>
   </div>
   @include('sweetalert::alert')
