@@ -6,20 +6,10 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
-<<<<<<< HEAD
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.0",
         "laravel/sanctum": "^3.2",
         "laravel/tinker": "^2.8"
-=======
-        "barryvdh/laravel-dompdf": "^3.0",
-        "guzzlehttp/guzzle": "^7.2",
-        "laravel/framework": "^10.0",
-        "laravel/sanctum": "^3.2",
-        "laravel/tinker": "^2.8",
-        "realrashid/sweet-alert": "^7.2",
-        "spatie/laravel-permission": "^6.10"
->>>>>>> d74caa2 (Initial commit)
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
